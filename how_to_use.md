@@ -36,10 +36,10 @@ Detecção de Fim de Semana: Considerando segunda-feira como primeiro dia
 
 **Performance**
 
-✅ Otimizado para períodos de 3 anos
-✅ Cálculos eficientes de feriados
-✅ Tipagem adequada das colunas
-✅ Nomes padronizados com prefixo dData_
+- ✅ Otimizado para períodos de 3 anos
+- ✅ Cálculos eficientes de feriados
+- ✅ Tipagem adequada das colunas
+- ✅ Nomes padronizados com prefixo dData_
 
 🎯 **Benefícios**
 
