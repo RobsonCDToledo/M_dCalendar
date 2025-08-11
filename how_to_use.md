@@ -52,7 +52,7 @@ Detecção de Fim de Semana: Considerando segunda-feira como primeiro dia
 🔄 **Customização**
 Para adaptar o código:
 
--**Alterar período:** Modificar as variáveis DataInicial e DataFinal
--**Adicionar feriados:** Incluir na lista feriadosFixos
--**Mudar prefixo:** Substituir dData_ por outro prefixo
--**Feriados regionais:** Adicionar feriados específicos de estados/municípios
+- **Alterar período:** Modificar as variáveis DataInicial e DataFinal
+- **Adicionar feriados:** Incluir na lista feriadosFixos
+- **Mudar prefixo:** Substituir dData_ por outro prefixo
+- **Feriados regionais:** Adicionar feriados específicos de estados/municípios
