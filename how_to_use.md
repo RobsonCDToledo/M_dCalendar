@@ -6,7 +6,7 @@ Vá em **Obter Dados** > Consulta em Branco
 No **Editor Avançado** do Power Query, cole o código M fornecido
 Clique em Concluído para carregar a tabela
 
-**No Excel (Power Query)**
+- **No Excel (Power Query)**
 
 Vá na aba Dados > **Obter Dados** > De Outras Fontes > **Consulta em Branco**
 Cole o código no **Editor de Consultas Avançado**
