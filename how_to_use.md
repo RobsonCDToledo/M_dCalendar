@@ -15,17 +15,17 @@ Clique em Concluído para carregar
 📋 **Casos de Uso**
 Business Intelligence
 
--Criação de relatórios com análises temporais
--Comparações ano a ano, mês a mês
--Análise de sazonalidade
--Cálculos de dias úteis para KPIs
+- Criação de relatórios com análises temporais
+- Comparações ano a ano, mês a mês
+- Análise de sazonalidade
+- Cálculos de dias úteis para KPIs
 
 **Análises Específicas**
 
--**Vendas:** Comparar performance em dias úteis vs fins de semana
--**RH:** Calcular dias trabalhados, descontar feriados
--**Operações:** Planejamento considerando dias não úteis
--**Financeiro:** Cálculos que dependem de dias úteis
+- **Vendas:** Comparar performance em dias úteis vs fins de semana
+- **RH:** Calcular dias trabalhados, descontar feriados
+- **Operações:** Planejamento considerando dias não úteis
+- **Financeiro:** Cálculos que dependem de dias úteis
 
 ⚙️ **Recursos Técnicos**
 Algoritmos Implementados
@@ -43,11 +43,11 @@ Detecção de Fim de Semana: Considerando segunda-feira como primeiro dia
 
 🎯 **Benefícios**
 
--**Automatização:** Sem necessidade de manutenção manual
--**Precisão:** Cálculo correto de feriados móveis
--**Completude:** Todas as informações temporais necessárias
--**Padronização:** Nomenclatura consistente para BI
--**Flexibilidade:** Fácil adaptação para outros países/regiões
+- **Automatização:** Sem necessidade de manutenção manual
+- **Precisão:** Cálculo correto de feriados móveis
+- **Completude:** Todas as informações temporais necessárias
+- **Padronização:** Nomenclatura consistente para BI
+- **Flexibilidade:** Fácil adaptação para outros países/regiões
 
 🔄 **Customização**
 Para adaptar o código:
