@@ -30,9 +30,9 @@ Business Intelligence
 ⚙️ **Recursos Técnicos**
 Algoritmos Implementados
 
-Fórmula de Gauss: Para cálculo preciso da data da Páscoa
-Lógica de Feriados Móveis: Baseada na Páscoa para outros feriados
-Detecção de Fim de Semana: Considerando segunda-feira como primeiro dia
+- **Fórmula de Gauss:** Para cálculo preciso da data da Páscoa
+- **Lógica de Feriados Móveis:** Baseada na Páscoa para outros feriados
+- **Detecção de Fim de Semana:** Considerando segunda-feira como primeiro dia
 
 **Performance**
 
