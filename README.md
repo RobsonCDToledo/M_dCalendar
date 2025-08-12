@@ -53,9 +53,9 @@ Corpus Christi
 
 💼 Indicadores de Dias Úteis
 
---**dData_Fim de Semana:** Indicador "Sim"/"Não" para sábados e domingos
---**dData_Tipo Dia:** Classificação ("Dia Útil", "Fim de Semana", "Feriado")
---**dData_É Dia Útil:** Indicador numérico (1 = dia útil, 0 = não útil)
+-- **dData_Fim de Semana:** Indicador "Sim"/"Não" para sábados e domingos
+-- **dData_Tipo Dia:** Classificação ("Dia Útil", "Fim de Semana", "Feriado")
+-- **dData_É Dia Útil:** Indicador numérico (1 = dia útil, 0 = não útil)
 
 📝 Licença
 --Este código é disponibilizado gratuitamente para uso em projetos pessoais e comerciais.
