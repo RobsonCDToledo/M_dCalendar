@@ -1,5 +1,6 @@
 **📅 Tabela de Calendário - Power Query M**  
 Uma função completa em Power Query M para criar uma tabela de calendário (dimensão tempo) com feriados brasileiros, indicadores de dias úteis e diversas colunas auxiliares para análises temporais.  
+
 **🚀 Funcionalidades**  
 Geração Automática de Datas  
 
@@ -43,24 +44,24 @@ Finados (2 de Novembro)
 Proclamação da República (15 de Novembro)  
 Natal (25 de Dezembro)  
 
-Feriados Móveis (Calculados pela Fórmula de Gauss):\*\*
+**Feriados Móveis (Calculados pela Fórmula de Gauss):**  
 
-Páscoa
-Sexta-feira Santa
-Segunda-feira de Carnaval
-Terça-feira de Carnaval
-Corpus Christi
+Páscoa  
+Sexta-feira Santa  
+Segunda-feira de Carnaval  
+Terça-feira de Carnaval  
+Corpus Christi  
 
-💼 Indicadores de Dias Úteis
+**💼 Indicadores de Dias Úteis**
 
- **dData_Fim de Semana:** Indicador "Sim"/"Não" para sábados e domingos
- **dData_Tipo Dia:** Classificação ("Dia Útil", "Fim de Semana", "Feriado")
- **dData_É Dia Útil:** Indicador numérico (1 = dia útil, 0 = não útil)
+ **dData_Fim de Semana:** Indicador "Sim"/"Não" para sábados e domingos  
+ **dData_Tipo Dia:** Classificação ("Dia Útil", "Fim de Semana", "Feriado")  
+ **dData_É Dia Útil:** Indicador numérico (1 = dia útil, 0 = não útil)  
 
-📝 Licença
-Este código é disponibilizado gratuitamente para uso em projetos pessoais e comerciais.
+**📝 Licença**
+Este código é disponibilizado gratuitamente para uso em projetos pessoais e comerciais.  
 
-🤝 Contribuições
-Sugestões e melhorias são bem-vindas! Abra uma issue ou pull request.
+**🤝 Contribuições**  
+Sugestões e melhorias são bem-vindas! Abra uma issue ou pull request.  
 
-Nota:\*\* Este código foi desenvolvido especificamente para o calendário e feriados brasileiros. Para outros países, será necessário adaptar a lista de feriados e suas regras de cálculo.
+**Nota:** Este código foi desenvolvido especificamente para o calendário e feriados brasileiros. Para outros países, será necessário adaptar a lista de feriados e suas regras de cálculo.
